@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace "com.example.terrasentry4"
+    namespace "com.biocore.app"
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.example.terrasentry4"
+        applicationId "com.biocore.app"
         minSdk 24
         targetSdk 36
         versionCode 1

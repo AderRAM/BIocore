@@ -1,4 +1,4 @@
-package com.example.terrasentry4;
+package com.biocore.app;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;

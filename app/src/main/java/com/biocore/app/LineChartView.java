@@ -1,4 +1,4 @@
-package com.example.terrasentry4;
+package com.biocore.app;
 
 import android.content.Context;
 import android.graphics.Canvas;

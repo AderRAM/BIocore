@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.Terrasentry4" parent="Theme.Material3.Dark.NoActionBar">
+    <style name="Theme.BioCore" parent="Theme.Material3.Dark.NoActionBar">
         <item name="android:windowBackground">@color/dark_bg</item>
         <item name="colorPrimary">@color/green_primary</item>
         <item name="colorOnPrimary">@color/black</item>
